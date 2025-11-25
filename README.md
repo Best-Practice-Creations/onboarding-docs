@@ -105,11 +105,6 @@ This comprehensive guide covers:
 - **Website**: [https://volentis.ai](https://volentis.ai)
 - **Documentation**: This repository
 
-### Additional Resources
-- 📚 [Microsoft identity platform documentation](https://learn.microsoft.com/azure/active-directory/develop/)
-- 📚 [Microsoft Graph API documentation](https://learn.microsoft.com/graph/)
-- 📚 [SharePoint API documentation](https://learn.microsoft.com/sharepoint/dev/)
-
 ### Get Help
 - **Integration issues**: Contact Volentis AI support at contact@volentis.ai
 - **Microsoft 365 issues**: Consult your tenant administrator
