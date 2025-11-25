@@ -98,53 +98,6 @@ This comprehensive guide covers:
 
 ---
 
-## 🚀 Quick Start
-
-To integrate Volentis AI with your organization:
-
-1. **Review Prerequisites**
-   - Ensure you have admin access to Microsoft Entra ID
-   - Verify you have appropriate permissions (Application Administrator or Global Administrator)
-   - Have your Volentis AI account ready
-
-2. **Follow the Entra App Registration Guide**
-   - Complete all steps in the [Entra App Registration Guide](entra-app-registration.md)
-   - Collect your Tenant ID, Client ID, and Client Secret
-   - Keep credentials secure
-
-3. **Configure Volentis AI**
-   - Enter your credentials in the Volentis AI application
-   - Test the connection
-   - Upload your HR documents to SharePoint
-
-4. **Deploy to Your Team**
-   - Run pilot tests with HR team
-   - Gather feedback
-   - Roll out organization-wide
-
-## 🔒 Security & Compliance
-
-Volentis AI meets the highest standards for enterprise security:
-
-### GDPR Compliance
-- **100% GDPR-compliant** - Full adherence to EU data protection regulations
-- **EU data residency** - All data processed and stored within the EU
-- **Right to erasure** - Full control over your data
-- **Data processing agreements** - Clear legal framework
-
-### Enterprise Security
-- **Dedicated environments** - Isolated infrastructure per organization
-- **No data sharing** - Your data is never used to train models
-- **OAuth 2.0 authentication** - Industry-standard security
-- **Encrypted at rest and in transit** - Military-grade encryption
-- **Regular security audits** - Continuous monitoring and testing
-
-### Transparency
-- **Source citations** - Every answer shows its source
-- **Full audit trail** - Track all queries and responses
-- **Explainable AI** - Understand how answers are generated
-- **Admin controls** - Configure what information is accessible
-
 ## 🆘 Support & Resources
 
 ### Technical Support
@@ -162,20 +115,6 @@ Volentis AI meets the highest standards for enterprise security:
 - **Microsoft 365 issues**: Consult your tenant administrator
 - **Security questions**: Reach out to your organization's security team
 - **Book a demo**: Visit [volentis.ai](https://volentis.ai)
-
-## 🤝 About Volentis
-
-**Volentis.ai** builds EU-native AI assistants that act like team members — secure, practical, and GDPR-compliant.
-
-We're advancing teams across:
-- 👥 Human Resources
-- 🔧 Engineering
-- ⚖️ Legal
-- 💼 Finance
-
-Our mission is to provide trustworthy, explainable AI that respects European values and data protection standards.
-
----
 
 ## 📞 Contact
 
