@@ -95,7 +95,7 @@ Fill in the application registration form:
 
 1. Click **+ Add a permission**
 2. Select **Microsoft Graph**
-3. Choose **Delegated permissions**
+3. Choose **Application permissions**
 4. In the search box, type "Files"
 5. Expand the **Files** section
 6. Check the box for **Files.Read.All**
@@ -128,7 +128,7 @@ The `User.Read` permission should already be present. If not:
 
 1. Click **+ Add a permission** again
 2. Select **SharePoint**
-3. Choose **Delegated permissions**
+3. Choose **Application permissions**
 4. In the search box, type "Sites"
 5. Expand the **Sites** section
 6. Check the box for **Sites.Read.All**
